@@ -9,7 +9,6 @@
 👉 https://github.com/FaustoAlexis93/Azure-Honeypot-Threat-Detection-Response-Project
 
 
-
 <h2> Certifications:</h2> 
 
 [Google_CybersecurityCertificate.pdf](https://github.com/user-attachments/files/21224079/Google_CybersecurityCertificate.pdf)
