@@ -4,8 +4,11 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-[Active Directory Home Lab](https://github.com/Alexcybertest/Laburl)
-[Hello World!](https://github.com/Alexcybertest/Laburl)
+
+**Azure Honeypot Threat Detection & Response Project**  
+👉 https://github.com/FaustoAlexis93/Azure-Honeypot-Threat-Detection-Response-Project
+
+
 
 <h2> Certifications:</h2> 
 
